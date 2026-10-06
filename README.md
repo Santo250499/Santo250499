@@ -1,5 +1,7 @@
 # Md Tanvir Mannan
 
+**Portfolio:** [portfolio-sigma-plum-98.vercel.app](https://portfolio-sigma-plum-98.vercel.app)
+
 ICT Support Officer on the Gold Coast, Australia. I support Microsoft 365 environments day to day and build practical AI tools in Python on the side.
 
 **Open to:** IT System Admin · IT Support Engineer · AI / automation roles in Brisbane and the Gold Coast
@@ -30,6 +32,7 @@ I work with Microsoft 365, Entra ID, Exchange Online, Intune, Active Directory, 
 | [**ai-job-application-assistant**](https://github.com/Santo250499/ai-job-application-assistant) | Streamlit app that scores a résumé against a job description, finds missing keywords, and uses OpenAI to draft a tone-selectable cover letter, recruiter messages, interview questions, and an updated CV. |
 | [**ai-claim-amount-calculator**](https://github.com/Santo250499/ai-claim-amount-calculator) | Streamlit tool that classifies claim payment-status rows from pasted text, Excel/CSV or screenshots, totals pending and paid amounts, and exports CSV and Excel reports. |
 | [**m365-user-lifecycle**](https://github.com/Santo250499/m365-user-lifecycle) *(in progress)* | PowerShell scripts for Microsoft 365 / Entra ID user onboarding and offboarding using the Microsoft Graph PowerShell SDK. |
+| [**portfolio**](https://github.com/Santo250499/portfolio) | Personal portfolio site built with Next.js, TypeScript and Tailwind CSS. |
 
 ### Skills
 
@@ -37,5 +40,6 @@ I work with Microsoft 365, Entra ID, Exchange Online, Intune, Active Directory, 
 
 ### Contact
 
+- Portfolio: [portfolio-sigma-plum-98.vercel.app](https://portfolio-sigma-plum-98.vercel.app)
 - LinkedIn: [linkedin.com/in/md-tanvir-mannan-517839217](https://www.linkedin.com/in/md-tanvir-mannan-517839217)
 - Email: mdtanvirmannan@gmail.com
