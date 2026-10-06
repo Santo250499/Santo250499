@@ -1,6 +1,6 @@
 # Md Tanvir Mannan
 
-**Portfolio:** [portfolio-sigma-plum-98.vercel.app](https://portfolio-sigma-plum-98.vercel.app)
+**Portfolio:** [tanvirmannan.vercel.app](https://tanvirmannan.vercel.app)
 
 ICT Support Officer on the Gold Coast, Australia. I support Microsoft 365 environments day to day and build practical AI tools in Python on the side.
 
@@ -40,6 +40,6 @@ I work with Microsoft 365, Entra ID, Exchange Online, Intune, Active Directory, 
 
 ### Contact
 
-- Portfolio: [portfolio-sigma-plum-98.vercel.app](https://portfolio-sigma-plum-98.vercel.app)
+- Portfolio: [tanvirmannan.vercel.app](https://tanvirmannan.vercel.app)
 - LinkedIn: [linkedin.com/in/md-tanvir-mannan-517839217](https://www.linkedin.com/in/md-tanvir-mannan-517839217)
 - Email: mdtanvirmannan@gmail.com
