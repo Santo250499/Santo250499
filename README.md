@@ -42,5 +42,5 @@ I work with Microsoft 365, Entra ID, Exchange Online, Intune, Active Directory, 
 ### Contact
 
 - Portfolio: [tanvirmannan.vercel.app](https://tanvirmannan.vercel.app)
-- LinkedIn: [linkedin.com/in/md-tanvir-mannan-517839217](https://www.linkedin.com/in/md-tanvir-mannan-517839217)
+- LinkedIn: [linkedin.com/in/mdtanvirmannan](https://www.linkedin.com/in/mdtanvirmannan)
 - Email: mdtanvirmannan@gmail.com
