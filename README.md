@@ -32,6 +32,9 @@ I work with Microsoft 365, Entra ID, Exchange Online, Intune, Active Directory, 
 | [**ai-job-application-assistant**](https://github.com/Santo250499/ai-job-application-assistant) | Streamlit app that scores a résumé against a job description, finds missing keywords, and uses OpenAI to draft a tone-selectable cover letter, recruiter messages, interview questions, and an updated CV. |
 | [**ai-claim-amount-calculator**](https://github.com/Santo250499/ai-claim-amount-calculator) | Streamlit tool that classifies claim payment-status rows from pasted text, Excel/CSV or screenshots, totals pending and paid amounts, and exports CSV and Excel reports. |
 | [**Thinkoogram student portal**](https://thinkoogram.com) *(private repo)* | Website for my study-abroad consultancy with a Supabase student portal (login, document checklist, appointment requests, counsellor admin; MVP). React, Vite, Supabase, PostgreSQL. |
+| **Study Compass** *(private repo, in development)* | Expo and React Native app with Supabase for finding New Zealand courses (search, eligibility check, shortlist, intake deadlines, counsellor Q&A). Tested with Jest. |
+| [**NTS AI Lab website**](https://ntsailab.com) *(private repo)* | Marketing site for my company, with a validated Resend enquiry form and security headers. Next.js 16, TypeScript, Tailwind CSS. |
+| **ProSkill Workforce** *(private repo, in progress)* | Recruitment automation for a Singapore recruitment company (client work via NTS AI Lab). |
 | [**m365-user-lifecycle**](https://github.com/Santo250499/m365-user-lifecycle) *(in progress)* | PowerShell scripts for Microsoft 365 / Entra ID user onboarding and offboarding using the Microsoft Graph PowerShell SDK. |
 | [**portfolio**](https://github.com/Santo250499/portfolio) | Personal portfolio site built with Next.js, TypeScript and Tailwind CSS. |
 
